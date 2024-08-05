@@ -23,7 +23,7 @@ git clone https://github.com/Sora2480/Column-games-Project/main.git
 open main file into your tools, Pycharm or VS Studio Code is OK 
 
 <h1> <Strong> Functionality (Work in progress)</Strong></h1>
-1. Press any key in keyboard
+ 1. Press any key in keyboard
 
 2. Playing with arrow up, down, left, right in keyboard 
 
