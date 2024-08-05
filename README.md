@@ -9,8 +9,12 @@ This image is the interface of program that we created as team.
 It's like an ordinary column games but we add the music inside the game to let anyone feel the sensation while playing tetris game.
 
 <h1> <Strong> Requirements </Strong> </h1>
-<font color="red"> [python](https://www.python.org/downloads/release/python-3124/) </font>
-<font color="red"> [pygame](https://www.pygame.org/download.shtml) </font>
+<font color="red"> https://www.python.org/downloads/release/python-3124/ </font>
+
+
+<font color="red"> https://www.pygame.org/download.shtml </font>
+
+
 
 The file that  we used is this:
 
