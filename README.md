@@ -7,3 +7,6 @@ The file that  we used is this:
 ![image](https://github.com/user-attachments/assets/7e53c909-6e1e-4e02-a0b9-79140abb7070)
 
 
+Framework / Programming Languages: Python
+Tools: PyCharm Community 
+
