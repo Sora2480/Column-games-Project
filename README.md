@@ -1,4 +1,6 @@
-Column Game Project
+<Strong> Column Game Project </Strong>
+<u></u>
+
 
 An Experimental Column Games project created by me and my friends.
 
