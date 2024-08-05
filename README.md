@@ -18,14 +18,16 @@ It's like an ordinary column games but we add the music inside the game to let a
 
 
 
+<h1> <Strong> Running </Strong></h1>
+<Strong> From Source </Strong>
+git clone https://github.com/Sora2480/Column-games-Project/main.git
+
+
+
 The file that  we used is this:
 
 ![image](https://github.com/user-attachments/assets/7e53c909-6e1e-4e02-a0b9-79140abb7070)
 
-
-<h1> <Strong> Running </Strong></h1>
-<Strong> From Source </Strong>
-git clone https://github.com/Sora2480/Column-games-Project/main.git
 
 
 open main file into your tools, Pycharm or VS Studio Code is OK 
