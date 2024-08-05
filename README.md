@@ -1,3 +1,7 @@
+Our Column Game
+
+An Experimental Column Games project created by me and my friends.
+
 ![image](https://github.com/user-attachments/assets/e6085771-7be6-42a1-8519-295cdff0ba7d)
 
 This image is the interface of program that we created as team. 
