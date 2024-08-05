@@ -23,7 +23,7 @@ It's like an ordinary column games but we add the music inside the game to let a
 
 
 
-git clone https://github.com/Sora2480/Column-games-Project/main.git
+git clone https://github.com/Sora2480/Column-games-Project
 
 
 
