@@ -1,4 +1,4 @@
-Our Column Game
+Column Game Project
 
 An Experimental Column Games project created by me and my friends.
 
