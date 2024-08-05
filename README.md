@@ -24,6 +24,7 @@ open main file into your tools, Pycharm or VS Studio Code is OK
 
 <h1> <Strong> Functionality (Work in progress)</Strong></h1>
 1. Press any key in keyboard
+
 2. Playing with arrow up, down, left, right in keyboard 
 
 <h1> <Strong> Framework / Programming Languages </Strong></h1> 
