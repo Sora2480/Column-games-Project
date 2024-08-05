@@ -1,4 +1,4 @@
-<Strong> Column Game Project </Strong>
+<h1> <Strong> Column Game Project </Strong> </h1>
 <u></u>
 
 
