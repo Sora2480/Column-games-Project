@@ -33,7 +33,7 @@ The file that  we used is this:
 
 
 
-open column games project into your programming tools, Pycharm or VS Studio Code are OK 
+open column games project into your programming tools, such as; Pycharm or VS Studio Code are OK 
 
 <h1> <Strong> Functionality (Work in progress)</Strong></h1>
 1. Press any key in keyboard
